@@ -1,0 +1,41 @@
+{
+    "name": "Newsman",
+    "description": "Email marketing through Newsman takes care of your emailing needs and helps to create, send, track and seamlessly analyze email campaigns. Try it now!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1895-newsman.jpg",
+    "tags": [
+        "api provider",
+        "campaigns",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/newsman\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Newsman",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1895-newsman.jpg",
+            "humanURL": "http:\/\/kb.newsmanapp.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/newsman-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NewsmanApp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/kb.newsmanapp.com\/api\/"
+        }
+    ]
+}
